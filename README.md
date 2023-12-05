@@ -9,4 +9,4 @@ I am passionate about data analytics and am currently expanding my toolkit with 
 - Experience in MatPlotlib, A* Search, Minimax and more
 - Experience with Data Cleaning and Database creation
 
-If you're working on exciting projects, looking to collaborate, or seeking a data professional, don't hesitate to reach out! I welcome inquiries, questions, and connections. You can contact me at traceysneed510@gmail.com. Have a fantastic day!
+If you're working on exciting projects, looking to collaborate, or seeking an aspiring data professional, don't hesitate to reach out! I welcome inquiries, questions, and connections. You can contact me at traceysneed510@gmail.com. Have a fantastic day!
