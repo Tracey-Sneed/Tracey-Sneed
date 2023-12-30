@@ -2,7 +2,7 @@
 
 Hello, I'm Tracey, a recent graduate from the Mathematics Department at the University of Colorado at Boulder. Originally from Chicagoland, I now reside in the vibrant southwest, specifically the Albuquerque area!
 
-I am passionate about data analytics and am currently expanding my toolkit with a focus on Tableau. I am proficient in Python and SQL, and enjoy delving into large datasets to uncover trends and gain valuable insights 📈.
+I am passionate about data analytics and am currently expanding my toolkit with a focus on Power BI. I am proficient in Python and SQL, and enjoy delving into large datasets to uncover trends and gain valuable insights 📈.
 
 **What I bring to the table:**
 - Solid foundation in Python and SQL
